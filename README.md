@@ -1,2 +1,4 @@
 # Netflix-rating-predictor
-IE0005 project to predict fake job postings
+Data Science / AI project to predict fake job postings
+
+Personal Archive Copy of joint Project
